@@ -9,3 +9,6 @@ body {
 	margin-right: auto;
 	/* transition: all 1s; */
 }
+.outline {
+	outline: 5px solid red;
+  }

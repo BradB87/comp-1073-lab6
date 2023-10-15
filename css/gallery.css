@@ -22,3 +22,17 @@ body {
   float: left;
   cursor: pointer;
 }
+
+.outline {
+  outline: 5px solid red;
+}
+
+#thumbBar img {
+  outline-width: 0;
+  z-index: 0;
+}
+
+#thumbBar img.reset-state {
+  outline-width: 0;
+  z-index: 0;
+}

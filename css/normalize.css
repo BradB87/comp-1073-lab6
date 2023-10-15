@@ -339,3 +339,6 @@ template {
 [hidden] {
   display: none;
 }
+.outline {
+  outline: 5px solid red;
+}
